@@ -24,3 +24,6 @@
 18. Tribun
 19. Universalis
 20. Ornements
+21. Symbols
+22. Mintspirit
+23. Mintysis

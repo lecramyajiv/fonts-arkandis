@@ -1,5 +1,5 @@
 
-
+https://arkandis.tuxfamily.org
 
 
 
@@ -23,3 +23,6 @@
 18. https://arkandis.tuxfamily.org/fonts/Tribun-Std-20120228.zip
 19. https://arkandis.tuxfamily.org/fonts/Universalis-Std-20110904.zip
 20. https://arkandis.tuxfamily.org/fonts/OrnementsADF.zip
+21. https://arkandis.tuxfamily.org/fonts/SymbolADF.zip
+22. https://arkandis.tuxfamily.org/fonts/MintSpirit-20150322.zip
+23. https://arkandis.tuxfamily.org/fonts/Mintysis-20120623.zip
