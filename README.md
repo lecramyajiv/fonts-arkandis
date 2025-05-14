@@ -19,3 +19,7 @@
 13. NeoGothic
 14. Mekanus
 15. Oldania
+16. Romande
+17. Solothurn
+18. Tribun
+19. Universalis

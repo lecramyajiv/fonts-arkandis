@@ -18,3 +18,7 @@
 13. https://arkandis.tuxfamily.org/fonts/NeoGothis-Std-20150405.tar.gz
 14. https://arkandis.tuxfamily.org/fonts/Mekanus-Std-20111025.zip
 15. https://arkandis.tuxfamily.org/fonts/Oldania-Std-20150406.tar.gz
+16. https://arkandis.tuxfamily.org/fonts/Romande-Collection-20110730.zip
+17. https://arkandis.tuxfamily.org/fonts/Solothurn-Std-20111228.zip
+18. https://arkandis.tuxfamily.org/fonts/Tribun-Std-20120228.zip
+19. https://arkandis.tuxfamily.org/fonts/Universalis-Std-20110904.zip
