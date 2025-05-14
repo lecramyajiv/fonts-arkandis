@@ -22,3 +22,4 @@
 17. https://arkandis.tuxfamily.org/fonts/Solothurn-Std-20111228.zip
 18. https://arkandis.tuxfamily.org/fonts/Tribun-Std-20120228.zip
 19. https://arkandis.tuxfamily.org/fonts/Universalis-Std-20110904.zip
+20. https://arkandis.tuxfamily.org/fonts/OrnementsADF.zip

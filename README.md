@@ -23,3 +23,4 @@
 17. Solothurn
 18. Tribun
 19. Universalis
+20. Ornements
