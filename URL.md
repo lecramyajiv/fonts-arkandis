@@ -14,3 +14,7 @@
 9. https://arkandis.tuxfamily.org/fonts/Gillius-Collection-20110312.zip
 10. https://arkandis.tuxfamily.org/fonts/Ikarius-Serie-20111024.zip
 11. https://arkandis.tuxfamily.org/fonts/Irianis-Std-20100729.zip
+12. https://arkandis.tuxfamily.org/fonts/Libris-Std-20110117.zip
+13. https://arkandis.tuxfamily.org/fonts/NeoGothis-Std-20150405.tar.gz
+14. https://arkandis.tuxfamily.org/fonts/Mekanus-Std-20111025.zip
+15. https://arkandis.tuxfamily.org/fonts/Oldania-Std-20150406.tar.gz
