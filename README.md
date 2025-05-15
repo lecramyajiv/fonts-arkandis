@@ -2,7 +2,7 @@
 Arkandis Digital Foundry [ADF] offers a large collection of 
 high quality fonts for publication and open source programs.
 The fonts are created with the aim to allow artistic creativity
-in publications for those cannot afford commercial fonts.
+in publications for those who cannot afford commercial fonts.
 The second is to protect the works of professional font 
 foundries and designers from the illegal use of their fonts in 
 publications or for commercial use by providing these free alternatives. 
