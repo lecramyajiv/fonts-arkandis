@@ -1,8 +1,17 @@
  
+Arkandis Digital Foundry [ADF] offers a large collection of 
+high quality fonts for publication and open source programs.
+The fonts are created with the aim to allow artistic creativity
+in publications for those cannot afford commercial fonts.
+The second is to protect the works of professional font 
+foundries and designers from the illegal use of their fonts in 
+publications or for commercial use by providing these free alternatives. 
 
+Arkandis Digital Foundry offers only alternative font 
+typefaces or derivative works that have the "look" of commercial fonts.
 
-
-
+The fonts are designed by Hirwen HARENDAL. The following fonts are
+available:
 
 1. Verana Sans
 2. Verana Serif
@@ -27,3 +36,5 @@
 21. Symbols
 22. Mintspirit
 23. Mintysis
+
+This is a repackage of the fonts for Slackware Linux.
