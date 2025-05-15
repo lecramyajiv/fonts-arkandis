@@ -10,7 +10,7 @@ publications or for commercial use by providing these free alternatives.
 Arkandis Digital Foundry offers only alternative font 
 typefaces or derivative works that have the "look" of commercial fonts.
 
-The fonts are designed by Hirwen HARENDAL. The following fonts are
+The fonts are designed by Hirwen Harendal. The following fonts are
 available:
 
 1. Verana Sans
